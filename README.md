@@ -1,3 +1,7 @@
+# Implementation of Firebase AUTH with Context API
+
+Firebase Authentication starter with Authentication and Authorization functionality, Registeration of a new users, Login/Logout function, Google signin Auth Enabled
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
